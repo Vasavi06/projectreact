@@ -20,8 +20,8 @@ const App = () => {
   return (
     <div>
       <h1>ToDoList</h1>
-      <input type="text" value={inputValue} onChange={handleInputChange} />
-      <button onClick={addTask}>Add Task</button>
+      {/* <input type="text" value={inputValue} onChange={handleInputChange} />
+      <button onClick={addTask}>Add Task</button> */}
       <TodoList tasks={tasks} />
     </div>
   );
