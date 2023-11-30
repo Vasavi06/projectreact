@@ -1,0 +1,5 @@
+git pull & git checkout Feature
+Differences between class components and function components
+What are the differences between state and props?
+What is Redux?- Redux is an open-source, JavaScript library used to manage the application state. React uses Redux to build the user interface. It is a predictable state container for JavaScript applications and is used for the entire application’s state management.
+JSX:  JSX is a syntax extension to JavaScript. It is used with React to describe what the user interface should look like. By using JSX, we can write HTML structures in the same file that contains JavaScript code.
